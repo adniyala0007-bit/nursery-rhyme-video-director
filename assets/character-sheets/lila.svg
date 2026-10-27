@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="700" viewBox="0 0 1280 700" role="img" aria-labelledby="title desc">
+<title id="title">Lila character sheet</title><desc id="desc">Draft front, side, and back views of Lila in a lavender overall dress with two chestnut hair buns.</desc>
+<defs>
+ <linearGradient id="skin" x2="0" y2="1"><stop stop-color="#FFE1C7"/><stop offset="1" stop-color="#F2B98D"/></linearGradient>
+ <linearGradient id="dress" x2="0" y2="1"><stop stop-color="#C8B3F2"/><stop offset="1" stop-color="#9A7BD0"/></linearGradient>
+ <linearGradient id="hair" x2="0" y2="1"><stop stop-color="#8B4B32"/><stop offset="1" stop-color="#5A2F25"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#665344" flood-opacity=".14"/></filter>
+</defs>
+<rect width="1280" height="700" rx="24" fill="#FFFDF8"/>
+<text x="56" y="62" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#3E3154">LILA · CHARACTER SHEET</text>
+<text x="58" y="94" font-family="Arial,sans-serif" font-size="16" fill="#766E82">Milo &amp; Friends Nursery Rhymes · draft model v0.1 · soft 3D storybook reference</text>
+<g font-family="Arial,sans-serif" fill="#665A76" font-size="14" font-weight="700" text-anchor="middle"><text x="190" y="150">FRONT</text><text x="475" y="150">SIDE</text><text x="760" y="150">BACK</text></g>
+<g fill="#FFFFFF" stroke="#E9E2D7"><rect x="55" y="166" width="270" height="425" rx="18"/><rect x="340" y="166" width="270" height="425" rx="18"/><rect x="625" y="166" width="270" height="425" rx="18"/><rect x="910" y="166" width="315" height="425" rx="18"/></g>
+<g stroke="#718092" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#shadow)">
+<g transform="translate(190 0)">
+ <path d="M-29 360L-31 485Q-30 500-17 500Q-4 499-5 484L1 360M15 360L18 485Q19 500 32 499Q45 498 40 483L31 358" fill="#F7EFE4"/>
+ <path d="M-49 486Q-25 480-4 488L-3 514Q-28 523-53 514Z" fill="#EE7064"/><path d="M12 488Q35 480 58 488L62 514Q36 523 12 514Z" fill="#EE7064"/>
+ <path d="M-49 291Q0 277 49 291L66 360Q0 384-66 360Z" fill="url(#dress)"/>
+ <path d="M-45 260Q0 243 45 260L47 318L-47 318Z" fill="#F8F0E6"/>
+ <path d="M-43 270Q-66 280-66 319L-53 340L-39 334L-37 284M43 270Q65 280 66 319L53 340L39 334L37 284" fill="#F8F0E6"/>
+ <path d="M-30 291L-27 257M30 291L27 257" fill="none" stroke="#896BC3" stroke-width="9"/>
+ <circle cx="-67" cy="343" r="9" fill="url(#skin)"/><circle cx="67" cy="343" r="9" fill="url(#skin)"/>
+ <circle cx="0" cy="199" r="51" fill="url(#skin)"/>
+ <circle cx="-39" cy="148" r="22" fill="url(#hair)"/><circle cx="39" cy="148" r="22" fill="url(#hair)"/>
+ <path d="M-43 190Q-47 158-18 153Q0 150 13 158Q36 148 47 177L42 194Q18 175 1 181Q-22 174-43 194Z" fill="url(#hair)"/>
+ <circle cx="-39" cy="148" r="5" fill="#EE7064" stroke="none"/><circle cx="39" cy="148" r="5" fill="#EE7064" stroke="none"/>
+ <ellipse cx="-18" cy="204" rx="5" ry="7" fill="#594438" stroke="none"/><ellipse cx="18" cy="204" rx="5" ry="7" fill="#594438" stroke="none"/>
+ <path d="M-24 226Q0 242 24 226" fill="none" stroke="#9A5941" stroke-width="3"/>
+</g>
+<g transform="translate(475 0)">
+ <path d="M-11 360L-13 486Q-12 501 1 500Q14 499 13 484L14 361M13 358L27 486Q29 500 41 498Q53 496 47 482L31 352" fill="#F7EFE4"/>
+ <path d="M-18 488Q4 480 22 488L23 514Q1 523-21 514Z" fill="#EE7064"/><path d="M25 488Q45 480 64 489L68 514Q46 523 25 514Z" fill="#EE7064"/>
+ <path d="M-28 294Q1 278 34 294L39 360Q4 380-36 360Z" fill="url(#dress)"/>
+ <path d="M-25 260Q4 246 34 263L34 318L-29 318Z" fill="#F8F0E6"/>
+ <path d="M-23 272Q-43 285-39 319L-28 340L-15 334L-14 285" fill="#F8F0E6"/><circle cx="-32" cy="344" r="9" fill="url(#skin)"/>
+ <path d="M-7 149Q34 143 45 180Q51 219 20 240Q-12 231-24 207Q-38 170-7 149Z" fill="url(#skin)"/>
+ <circle cx="-18" cy="151" r="20" fill="url(#hair)"/><circle cx="23" cy="148" r="19" fill="url(#hair)"/>
+ <path d="M-29 190Q-35 158-6 153Q14 151 24 166Q42 158 47 183L39 197Q15 179-2 183Q-17 180-29 195Z" fill="url(#hair)"/>
+ <circle cx="-18" cy="151" r="4" fill="#EE7064" stroke="none"/><circle cx="23" cy="148" r="4" fill="#EE7064" stroke="none"/>
+ <ellipse cx="20" cy="203" rx="5" ry="7" fill="#594438" stroke="none"/><path d="M18 224Q30 228 37 220" fill="none" stroke="#9A5941" stroke-width="3"/>
+</g>
+<g transform="translate(760 0)">
+ <path d="M-29 360L-31 485Q-30 500-17 500Q-4 499-5 484L1 360M15 360L18 485Q19 500 32 499Q45 498 40 483L31 358" fill="#F7EFE4"/>
+ <path d="M-49 486Q-25 480-4 488L-3 514Q-28 523-53 514Z" fill="#EE7064"/><path d="M12 488Q35 480 58 488L62 514Q36 523 12 514Z" fill="#EE7064"/>
+ <path d="M-49 291Q0 277 49 291L66 360Q0 384-66 360Z" fill="url(#dress)"/>
+ <path d="M-30 290L-27 258M30 290L27 258" fill="none" stroke="#896BC3" stroke-width="9"/>
+ <path d="M-43 260Q0 247 43 260L46 315L-46 315Z" fill="#F8F0E6"/>
+ <circle cx="0" cy="199" r="51" fill="url(#hair)"/><circle cx="-39" cy="149" r="22" fill="url(#hair)"/><circle cx="39" cy="149" r="22" fill="url(#hair)"/>
+ <circle cx="-39" cy="149" r="5" fill="#EE7064" stroke="none"/><circle cx="39" cy="149" r="5" fill="#EE7064" stroke="none"/>
+</g></g>
+<g font-family="Arial,sans-serif" fill="#4C435B"><text x="934" y="207" font-size="19" font-weight="700">IDENTITY KEYS</text><text x="934" y="240" font-size="14">Two rounded chestnut buns</text><text x="934" y="264" font-size="14">Small coral hair clips</text><text x="934" y="288" font-size="14">Hazel-brown eyes</text><text x="934" y="330" font-size="19" font-weight="700">FIXED PALETTE</text></g>
+<g font-family="Arial,sans-serif" font-size="12" fill="#4A5360">
+ <rect x="934" y="348" width="28" height="24" rx="6" fill="#F6C39D"/><text x="973" y="365">warm light-peach skin</text><rect x="934" y="382" width="28" height="24" rx="6" fill="#F8F0E6"/><text x="973" y="399">cream shirt</text><rect x="934" y="416" width="28" height="24" rx="6" fill="#AB91D8"/><text x="973" y="433">lavender overall dress</text><rect x="934" y="450" width="28" height="24" rx="6" fill="#EE7064"/><text x="973" y="467">coral clips and shoes</text><rect x="934" y="484" width="28" height="24" rx="6" fill="#70402D"/><text x="973" y="501">chestnut hair</text><text x="934" y="548" font-weight="700">Draft design · update only with approval</text>
+</g>
+<text x="58" y="638" font-family="Arial,sans-serif" font-size="14" fill="#7A8490">Keep Lila's two buns, clips, face, outfit, scale, and colors identical in every verse and video prompt.</text>
+</svg>
