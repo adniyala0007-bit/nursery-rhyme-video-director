@@ -11,7 +11,7 @@ Every full episode is **16:9 landscape** and runs **1:30–2:00 (90–120 second
 3. **Lyrics:** write original, easy-to-sing verses. Include character names naturally when they appear, and mark every repeated chorus.
 4. **Timing map:** timestamp all verses and instrumental breaks; confirm the total song is 90–120 seconds.
 5. **Storyboard:** plan about 8–12 clear shots. Match each lyric phrase to a named character and understandable action.
-6. **Reference approval:** attach the matching PNG turnaround to each shot: `milo-turnaround.png`, `lila-turnaround.png`, `pip-turnaround.png`, and/or `bubo-turnaround.png`.
+6. **Reference approval:** choose one primary environment from [prompts/environments.md](../prompts/environments.md) and attach its PNG set reference to every shot. Also attach the matching character turnaround PNG to each shot: `milo-turnaround.png`, `lila-turnaround.png`, `pip-turnaround.png`, and/or `bubo-turnaround.png`. Preserve the selected set layout and the named characters' designs throughout the episode.
 7. **Test clip:** make a 5–10 second sample and check faces, outfits, movement, sound, and framing.
 8. **Production:** create the approved shots in landscape 16:9; revise only sections that fail review.
 9. **Edit:** assemble the clips to the voice track; add readable captions, original music, and gentle sound design.
@@ -26,7 +26,8 @@ Every full-video prompt must say:
 - Named cast from the character bible and the active names for each shot.
 - The timed original verses and chorus that the visuals follow.
 - Shot-level duration, action, composition, camera movement, and sound cue.
-- Attach the matching character PNGs; preserve names, faces, hair/fur, palette, species, fixed outfits, and proportions.
+- Choose one environment from `prompts/environments.md`, name it in every shot, and attach its matching PNG reference.
+- Attach the matching character PNGs; preserve names, faces, hair/fur, palette, species, fixed outfits, and proportions, along with the environment layout and lighting.
 - No generated lettering; add captions in the editor.
 
 If a storyboard uses separate clips, ensure the clip durations add to the requested 90–120 second full episode.
