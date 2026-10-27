@@ -11,7 +11,7 @@
 
 ## Reference observations
 
-The two supplied YouTube screenshots suggest a useful channel structure:
+The supplied channel images suggest a useful preschool-channel structure and a bright, polished 3D nursery-rhyme finish:
 
 - A wide banner with a sunny, storybook setting and the main cast.
 - A simple avatar that remains readable at small size.
@@ -19,7 +19,7 @@ The two supplied YouTube screenshots suggest a useful channel structure:
 - Separate rows or playlists for full songs, learning collections, and Shorts.
 - Repeated colors and character designs that make episodes feel like one channel.
 
-These are presentation observations only. Make an original logo, character silhouettes, wording, palette, and thumbnail compositions. Do not use the supplied channel names, characters, screenshots, or distinctive artwork.
+Use the supplied images only for broad style cues such as rounded 3D forms, cheerful expressions, vivid color, and a child-and-animal-friends ensemble. The original Milo & Friends cast is defined in the character bible and PNG turnaround sheets. Do not reuse source logos, names, exact characters, outfits, poses, or compositions.
 
 ## Suggested channel layout
 
@@ -41,10 +41,10 @@ These are presentation observations only. Make an original logo, character silho
 
 | Pillar | Example topics | Format |
 | --- | --- | --- |
-| Sing | Hello, bedtime, weather, animals, friendship | 1–2 minute songs |
-| Learn | Counting, colors, shapes, opposites, routines | 1–3 minute musical stories |
-| Move | Clap, stretch, tiptoe, freeze, gentle dance | 15–30 second Shorts and full songs |
-| Story | Small problem, kind choice, joyful resolution | 1–3 minute musical adventures |
+| Sing | Hello, bedtime, weather, animals, friendship | 1:30–2:00 full songs |
+| Learn | Counting, colors, shapes, opposites, routines | 1:30–2:00 full songs |
+| Move | Clap, stretch, tiptoe, freeze, gentle dance | 1:30–2:00 full songs; separate 15–30 second Shorts |
+| Story | Small problem, kind choice, joyful resolution | 1:30–2:00 full song stories |
 
 ## Publishing rhythm starter
 
