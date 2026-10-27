@@ -1,0 +1,11 @@
+__pycache__/
+.DS_Store
+Thumbs.db
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.aiff
+*.blend1
+renders/
+exports/
