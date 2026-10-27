@@ -2,28 +2,38 @@
 
 - **ID:** [ep-000]
 - **Status:** Brief
-- **Format:** 16:9 full episode
-- **Target runtime:** 2:00
+- **Full-video format:** 16:9 landscape
+- **Target runtime:** 1:30–2:00 (90–120 seconds)
 - **Language:** English (change if needed)
 - **Theme:** [one simple idea]
 - **Learning / feeling goal:** [what the child can notice, sing, or feel]
-- **Cast:** [Milo, Lila, Pip, Bubo]
+- **Cast:** [Milo, Lila, Pip, Bubo; remove characters not used]
 - **Location:** Peach Stone Garden Lane
-- **Music reference:** [tempo, mood, instruments; do not name a copyrighted song to imitate]
+- **Music reference:** [original tempo, mood, instruments; do not name a copyrighted song to imitate]
 
 ## Creative treatment
 
 [Opening hook, tiny story, chorus placement, and reassuring ending.]
 
-## Original lyrics
+## Original lyrics and verse map
 
-[Write new lyrics. Mark repeating sections clearly.]
+Write original lyrics. Timestamp every verse, chorus, and instrumental break. Include the character name in a verse when that character is part of the action. Total audio and finished video must be 90–120 seconds.
 
-## Storyboard
+| Time | Section | Lyrics / sound cue | Character names |
+| --- | --- | --- | --- |
+| 00:00–00:10 | [Intro verse] | [original words] | [Milo] |
 
-| Time | Lyric / audio cue | Action | Shot and camera | Image prompt | Video prompt | Status |
+## Full-video generation prompt
+
+Create one complete nursery-rhyme video lasting **90–120 seconds** in **16:9 landscape**. Follow the original timed lyrics above. Use only the named cast from the character bible: [names]. Attach the matching character-sheet reference to every shot where that character appears. Preserve each character's face, colors, fixed outfit, body proportions, and screen direction across all shots. Keep the Peach Stone Garden Lane recognizable. Describe each shot's time, duration, active character names, action, framing, camera movement, and sound. Do not render captions or other text inside the footage; add captions during editing. End with a calm, complete musical resolution.
+
+## Storyboard and shot prompts
+
+Every shot prompt must name the on-screen characters (or say `On-screen characters: none`), state the shot duration and 16:9 landscape, identify the verse/audio cue, and repeat the character-consistency instruction. Plan enough shots to fill 90–120 seconds.
+
+| Time | Duration | Verse / audio cue | On-screen character names | Action and camera | Image prompt | Video prompt |
 | --- | --- | --- | --- | --- | --- | --- |
-| 00:00–00:10 | [line / cue] | [one action] | [shot] | [prompt] | [prompt] | Brief |
+| 00:00–00:10 | 10 sec | [lyric / cue] | [Milo] | [action and shot] | [prompt] | [prompt with names, duration, 16:9, and reference notes] |
 
 ## Audio notes
 
@@ -40,12 +50,14 @@
 - Description:
 - Tags:
 - Playlist:
-- Shorts cutdown timestamps:
+- Shorts cutdown timestamps (9:16 only):
 
 ## Review checklist
 
-- [ ] Lyrics and melody are original or properly licensed.
-- [ ] Character references and environment are consistent.
+- [ ] Original lyrics and melody or properly licensed music.
+- [ ] Total finished full-video runtime is 1:30–2:00 and canvas is 16:9 landscape.
+- [ ] Every verse is timed and character names match the shot plan.
+- [ ] Matching character references and environment are consistent in every shot.
 - [ ] Child-directed actions are safe and clearly modeled.
 - [ ] Captions are accurate, readable, and timed to the approved audio.
 - [ ] Music, voice, visuals, and other assets have cleared usage rights.
