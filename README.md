@@ -7,7 +7,7 @@ A practical kit for creating original nursery-rhyme videos for YouTube with a re
 **Full-video format:** 16:9 landscape · 1:30–2:00  
 **Shorts:** separate 9:16 portrait cutdowns
 
-[**Install / use the Nursery Rhymes Director Skill**](https://github.com/adniyala0007-bit/nursery-rhyme-video-director/tree/main/skills/directing-nursery-rhyme-videos) · [Open the character sheets](docs/character-sheets.md)
+[**Install / use the Nursery Rhymes Director Skill**](https://github.com/adniyala0007-bit/nursery-rhyme-video-director/tree/main/skills/directing-nursery-rhyme-videos) · [Open the character sheets](docs/character-sheets.md) · [Open the environment prompts](prompts/environments.md)
 
 ## Install and get started
 
@@ -15,7 +15,7 @@ Use this repository link with an AI assistant that supports installing repositor
 
 `https://github.com/adniyala0007-bit/nursery-rhyme-video-director`
 
-Or open the [Skill folder](skills/directing-nursery-rhyme-videos) directly. After installation, ask the assistant to read `SKILL.md`, the character bible, and the character sheets.
+Or open the [Skill folder](skills/directing-nursery-rhyme-videos) directly. After installation, ask the assistant to read `SKILL.md`, the character bible, character sheets, and environment prompts.
 
 Copy this prompt to start a full episode:
 
