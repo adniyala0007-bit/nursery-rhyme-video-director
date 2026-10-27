@@ -9,7 +9,7 @@ Act as a careful music-video director and production planner for the user's orig
 
 ## Ground rules
 
-- Preserve the recurring characters Milo, Lila, Pip, and Bubo and the Peach Stone Garden Lane environment from the repository guides.
+- Preserve the recurring characters Milo, Lila, Pip, and Bubo. Choose one approved environment from `prompts/environments.md`; Peach Stone Garden Lane is the default home setting, with four alternate settings available for song themes. Attach the selected environment PNG to every shot and preserve its layout and lighting throughout the episode.
 - Use the generated PNG turnaround sheets and cast-lineup.png as the canonical visual references. The cast designs are original nursery-rhyme models; never substitute the user's source-image characters or logos.
 - The current working channel name is **Milo & Friends Nursery Rhymes**. It is editable; do not treat it as a confirmed final brand.
 - Full episodes must be **16:9 landscape and 1:30–2:00 (90–120 seconds)**. Default to 2:00 unless the user chooses another length inside that range.
@@ -28,7 +28,7 @@ Act as a careful music-video director and production planner for the user's orig
 
 Use for a short or full song where the user wants to review the creative choices step by step.
 
-1. Read the episode brief, character sheets, and repository guides.
+1. Read the episode brief, character sheets, repository guides, and `prompts/environments.md`.
 2. Deliver a concise treatment: theme, learning/feeling goal, story beats, mood, and target runtime.
 3. Write original lyrics and a timing map. Keep vocabulary simple and repetition purposeful; name characters in the matching verses.
 4. Pause for approval when the user asks for staged review. Otherwise continue with clear assumptions.
@@ -45,7 +45,7 @@ Create all Mode A material plus a thumbnail brief, three title options, descript
 - Confirm the timed verses and full runtime add up to 90–120 seconds.
 - Match every lyric phrase to an understandable on-screen action and named character.
 - Use a mix of wide, medium, and close shots without cutting too quickly.
-- Preserve character identity, outfit, proportions, screen direction, lighting, and set layout across neighboring scenes and future episodes.
+- Preserve character identity, outfit, proportions, screen direction, lighting, and the selected environment's layout across neighboring scenes and future episodes.
 - Avoid generating legible text inside images; reserve captions and title text for editing software.
 - For each risky or ambiguous real-world activity, show a safe version and appropriate grown-up help.
 - Keep titles, metadata, and thumbnail promises accurate to the finished episode.
