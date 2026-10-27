@@ -12,7 +12,8 @@ FORMAT AND LENGTH
 - Plan a complete beginning, repeated chorus, and calm musical ending. Sum all shot durations to the requested runtime.
 
 CHANNEL AND CAST
-- Channel world: Milo & Friends Nursery Rhymes, Peach Stone Garden Lane.
+- Channel world: Milo & Friends Nursery Rhymes. Choose one primary environment from prompts/environments.md; Peach Stone Garden Lane is the default home setting.
+- Attach the selected environment PNG to every shot and preserve its landmarks, layout, palette, perspective, and lighting across that episode.
 - Named cast: Milo, Lila, Pip, and Bubo. Use only the characters named for this episode.
 - Character designs: attach the matching PNGs for every active character: Milo → `milo-turnaround.png`, Lila → `lila-turnaround.png`, Pip → `pip-turnaround.png`, Bubo → `bubo-turnaround.png`; optionally include `cast-lineup.png`. Keep faces, species, hair/fur, colors, fixed outfits, silhouettes, scale, and proportions unchanged.
 - In every shot prompt, write the exact active character names. If nobody appears, write “On-screen characters: none.”
@@ -31,7 +32,7 @@ SHOT PROMPTS
 For each shot, provide: timestamp, duration, lyric/audio cue, exact on-screen character names, action, composition, camera movement, setting, continuity note, and sound cue.
 Every individual video prompt must repeat:
 “16:9 landscape; [shot duration]; on-screen characters: [exact names or none]. Use the attached approved character-sheet references. Preserve each named character’s face, colors, fixed outfit, proportions, and screen direction; do not redesign them.”
-Use only calm, readable movement. Keep the garden layout and lighting coherent across adjacent shots.
+Use only calm, readable movement. Keep the selected environment layout and lighting coherent across adjacent shots. For each shot, state the environment name and reference PNG filename.
 
 OUTPUT ORDER
 1. Brief creative treatment
