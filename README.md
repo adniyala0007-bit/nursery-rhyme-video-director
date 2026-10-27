@@ -11,11 +11,20 @@ A practical kit for creating original nursery-rhyme videos for YouTube with a re
 
 ## Install and get started
 
-Use this repository link with an AI assistant that supports installing repository Skills:
+Copy and send this install prompt to an AI assistant that supports repository Skills:
 
-`https://github.com/adniyala0007-bit/nursery-rhyme-video-director`
+```text
+Install this Skill for me:
+https://github.com/adniyala0007-bit/nursery-rhyme-video-director
 
-Or open the [Skill folder](skills/directing-nursery-rhyme-videos) directly. After installation, ask the assistant to read `SKILL.md`, the character bible, character sheets, and environment prompts.
+After installation, read skills/directing-nursery-rhyme-videos/SKILL.md.
+Explain what the Skill does, what tools it needs, and how to start a nursery-rhyme episode.
+Read the character bible, character sheets, and environment prompts before planning.
+```
+
+**Direct links:** [Open the Skill folder](https://github.com/adniyala0007-bit/nursery-rhyme-video-director/tree/main/skills/directing-nursery-rhyme-videos) · [Open the repository](https://github.com/adniyala0007-bit/nursery-rhyme-video-director)
+
+> This repository is private. The AI assistant must use a GitHub account that has access to it.
 
 Copy this prompt to start a full episode:
 
