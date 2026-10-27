@@ -29,4 +29,4 @@ Use this environment as the continuity anchor. Add only the props a scene needs;
 
 ## Negative prompt starter
 
-`No extra fingers or limbs, no duplicate characters, no distorted faces, no text, no logos, no watermark, no frightening imagery, no harsh flashing lights, no unsafe behavior, no photorealistic adults, and no changes to the approved character reference designs.`
+`No extra fingers or limbs, no duplicate characters, no distorted faces, no text, no logos, no watermark, no frightening imagery, no harsh flashing lights, no unsafe behavior, no photorealistic adults, and no changes to the canonical PNG reference designs, species, hairstyles/fur, outfits, or palette.`
