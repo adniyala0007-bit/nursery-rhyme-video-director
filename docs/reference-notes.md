@@ -1,5 +1,5 @@
 # Reference Notes
 
-The two uploaded YouTube channel screenshots were reviewed as visual references. They show a wide illustrated banner, a simple mascot-led avatar, bright preschool 3D imagery, shelves of full songs, and a separate Shorts row. These observations informed the channel blueprint and visual guide.
+The user-supplied channel images guided only the broad visual direction: polished soft 3D preschool animation, rounded friendly forms, expressive faces, vivid balanced colors, and a child-and-animal-friends ensemble.
 
-The screenshots are not copied into this repository and their artwork is not reused. The project uses the separately defined Milo, Lila, Pip, and Bubo cast and the Peach Stone Garden Lane environment. Keep all final artwork, songs, names, and thumbnail layouts original.
+The repository does not reuse source logos, text, exact characters, outfits, poses, or compositions. The original Milo, Lila, Pip, and Bubo designs are documented in [the character bible](character-bible.md) and in the generated PNG turnarounds under [assets/character-sheets](../assets/character-sheets/). Use those PNGs as the recurring character references in future videos.
