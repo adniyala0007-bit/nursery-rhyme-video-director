@@ -42,22 +42,24 @@ Keep the same faces, colors, outfits, proportions, and garden setting throughout
 
 ## Character sheets
 
-These are original **draft design sheets** for this channel's working cast. Review them and adjust any detail before calling a design final.
+These original 3D designs use your images as broad nursery-rhyme style references. The new cast does not reuse the source logos or exact character models.
 
 | Character | Reference sheet |
 | --- | --- |
-| Milo | [View Milo's three-view sheet](assets/character-sheets/milo.svg) |
-| Lila | [View Lila's three-view sheet](assets/character-sheets/lila.svg) |
-| Pip | [View Pip's three-view sheet](assets/character-sheets/pip.svg) |
-| Bubo | [View Bubo's three-view sheet](assets/character-sheets/bubo.svg) |
+| Milo | [View Milo's three-view sheet](assets/character-sheets/milo-turnaround.png) |
+| Lila | [View Lila's three-view sheet](assets/character-sheets/lila-turnaround.png) |
+| Pip | [View Pip's three-view sheet](assets/character-sheets/pip-turnaround.png) |
+| Bubo | [View Bubo's three-view sheet](assets/character-sheets/bubo-turnaround.png) |
 
-The [character sheet prompts](docs/character-sheets.md) explain how to generate and reuse these references. Keep the same model version attached across every episode.
+![Milo, Lila, Pip, and Bubo cast lineup](assets/character-sheets/cast-lineup.png)
+
+The [character sheet guide](docs/character-sheets.md) explains how to reuse these PNG references consistently. Keep the same model version attached across every episode.
 
 ## Repository map
 
 ```text
 docs/                         Channel, character, and production guides
-assets/character-sheets/      Named three-view character reference sheets (SVG)
+assets/character-sheets/      3D nursery-rhyme cast lineup and turnaround references (PNG)
 episodes/                     Timed episode briefs and production packs
 prompts/                      Copy-ready image/video/thumbnail prompts
 skills/                       Nursery-rhyme video director Skill
