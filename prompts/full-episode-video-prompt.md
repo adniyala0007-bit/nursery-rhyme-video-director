@@ -14,7 +14,7 @@ FORMAT AND LENGTH
 CHANNEL AND CAST
 - Channel world: Milo & Friends Nursery Rhymes, Peach Stone Garden Lane.
 - Named cast: Milo, Lila, Pip, and Bubo. Use only the characters named for this episode.
-- Character designs: attach and follow the matching sheet from assets/character-sheets/. Keep faces, eye/hair/feather colors, fixed outfits, silhouettes, scale, and proportions unchanged.
+- Character designs: attach the matching PNG turnaround from assets/character-sheets/ for every active character; optionally include cast-lineup.png. Keep faces, eye/hair/fur colors, fixed outfits, silhouettes, scale, and proportions unchanged.
 - In every shot prompt, write the exact active character names. If nobody appears, write “On-screen characters: none.”
 - Never substitute an unnamed “child,” “bird,” or “owl” for a named character.
 
