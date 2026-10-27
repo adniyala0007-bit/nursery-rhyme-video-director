@@ -4,7 +4,7 @@ Animate the approved still and matching PNG character turnaround references into
 
 - **Full episode:** 16:9 landscape, total runtime 1:30–2:00 (90–120 seconds); make separate vertical 9:16 Shorts.
 - **Active character names:** [exact names from the character bible, or “none”].
-- **Reference images:** attach each active character's PNG turnaround from `assets/character-sheets/`; optionally include `cast-lineup.png`.
+- **Reference images:** attach Milo → `milo-turnaround.png`, Lila → `lila-turnaround.png`, Pip → `pip-turnaround.png`, and/or Bubo → `bubo-turnaround.png` from `assets/character-sheets/`; optionally include `cast-lineup.png`.
 - **Lyric/audio cue:** [exact timed verse or instrumental cue].
 - **Action:** [one readable action synchronized to the lyric].
 - **Character motion:** [small, natural gestures; keep face, hair/fur, outfit, proportions, and identity unchanged].
