@@ -1,63 +1,55 @@
 # Character Bible
 
-## Working cast
+## Canonical cast and visual style
 
-The recurring cast is **Milo, Lila, Pip, and Bubo**. Their current reference sheets are editable draft designs in [docs/character-sheets.md](character-sheets.md) and [assets/character-sheets](../assets/character-sheets/). Keep the same approved sheet files attached to every episode prompt.
+The working channel cast is **Milo, Lila, Pip, and Bubo**. Their original 3D nursery-rhyme designs are shown in the [cast lineup](../assets/character-sheets/cast-lineup.png) and individual turnaround sheets below. The user-supplied images were used only as broad references for cheerful preschool 3D animation and a child-and-animal-friends ensemble. Do not reuse their logos, text, exact characters, outfits, poses, or compositions.
 
-## Shared design rules
+Use the PNG turnarounds as canonical design references in every episode. These characters are original designs created for **Milo & Friends Nursery Rhymes**.
 
-- Render the characters as original, warm, rounded 3D preschool storybook characters.
-- Use the SVG sheets as identity anchors for silhouette, face, colors, outfit, and proportions.
-- Keep faces, eye colors, hair/feathers, accessories, outfits, and body scale unchanged from shot to shot and episode to episode.
-- Preserve the Peach Stone Garden Lane setting, palette, lighting, and screen direction unless the episode brief explicitly calls for another location.
-- Expressions and simple gestures may change; permanent design details may not.
-- Do not add costumes, jewelry, props, hairstyles, or color changes unless an episode establishes a temporary change and repeats it consistently.
-- Make an original look. Do not copy another channel's character designs, logo, signature composition, or artwork.
-- Keep all movement calm, legible, kind, and safe to imitate.
+## Shared consistency rules
+
+- Style: polished, soft 3D preschool nursery-rhyme animation, rounded forms, expressive friendly eyes, bright balanced color, warm soft daylight.
+- Attach the correct PNG turnaround reference to every video/image prompt where that character appears. The full cast lineup may be attached as an additional style reference.
+- Keep the same face, hair/fur, eye color, body shape, outfit, fixed accessories, proportions, and scale across every episode.
+- Expressions and simple gestures may change. Do not add costumes, props, or permanent design changes without updating the character sheet first.
+- Keep actions gentle and safe to imitate. Do not generate logos, title lettering, captions, or watermarks inside the footage.
+- Do not make any character look like an exact copy of the uploaded reference characters or another channel's artwork.
 
 ## Milo
 
-- **Name:** Milo
-- **Role:** curious child and welcoming lead.
-- **Appearance:** preschool-age boy with a warm light-peach complexion, round face, dark teal eyes, and short chestnut hair with one curved forelock.
-- **Fixed outfit:** mustard-yellow hoodie with a teal front pocket, deep-indigo shorts, and teal sneakers with cream soles.
-- **Personality cues:** curious, warm, expressive; gestures are clear and small.
-- **Reference:** [assets/character-sheets/milo.svg](../assets/character-sheets/milo.svg)
+- **Role:** cheerful preschool boy and welcoming lead.
+- **Appearance:** warm peach skin, short wavy chestnut hair swept to one side, large teal eyes, rounded child proportions.
+- **Fixed outfit:** turquoise striped T-shirt, sunny-yellow short overalls, white sneakers.
+- **Reference:** [milo-turnaround.png](../assets/character-sheets/milo-turnaround.png)
 
 ## Lila
 
-- **Name:** Lila
-- **Role:** thoughtful friend who helps explore, count, or demonstrate.
-- **Appearance:** preschool-age girl with a warm light-peach complexion, hazel-brown eyes, and chestnut hair in two rounded buns with small coral clips.
-- **Fixed outfit:** cream long-sleeve shirt, lavender overall dress, and coral shoes.
-- **Personality cues:** playful, thoughtful, supportive.
-- **Reference:** [assets/character-sheets/lila.svg](../assets/character-sheets/lila.svg)
+- **Role:** kind, playful friend who helps explore or demonstrate an idea.
+- **Appearance:** warm medium-brown skin, dark curly hair in two round puffs with lilac bows, large brown eyes, rounded child proportions.
+- **Fixed outfit:** coral-pink short-sleeved shirt, purple/lavender pinafore with small flower appliqués, yellow shoes.
+- **Reference:** [lila-turnaround.png](../assets/character-sheets/lila-turnaround.png)
 
 ## Pip
 
-- **Name:** Pip
-- **Role:** small bird companion who adds a visual reaction or gentle movement cue.
-- **Appearance:** small rounded turquoise-blue songbird, lemon-cream belly, dark-teal feather tuft, large dark eyes, tangerine beak, and tangerine feet.
-- **Fixed design:** no clothing or extra accessories.
-- **Personality cues:** lively and curious; use small hops and gentle wing flutters.
-- **Reference:** [assets/character-sheets/pip.svg](../assets/character-sheets/pip.svg)
+- **Role:** small bunny companion who adds a gentle reaction or movement cue.
+- **Appearance:** plush-like mint-blue bunny with one short upright ear and one softly floppy ear, pink inner ears, cream muzzle and belly, large teal-blue eyes, small coral nose and feet.
+- **Fixed design:** no clothing, jewelry, or props.
+- **Reference:** [pip-turnaround.png](../assets/character-sheets/pip-turnaround.png)
 
 ## Bubo
 
-- **Name:** Bubo
-- **Role:** calm, kind owl who can introduce a question or help resolve a small problem.
-- **Appearance:** rounded cocoa-brown owl with cream face discs and belly, amber brow tufts, and large dark-brown eyes.
-- **Fixed accessory:** one teal scarf, tied at the side and visible in every shot.
-- **Personality cues:** patient, reassuring, gentle.
-- **Reference:** [assets/character-sheets/bubo.svg](../assets/character-sheets/bubo.svg)
+- **Role:** friendly monkey companion who can add playful gestures.
+- **Appearance:** tangerine-orange monkey with cream face and belly, large brown eyes, rounded ears, small orange hair tuft, and a tail with a curled tip.
+- **Fixed outfit:** teal sleeveless vest with two yellow buttons; no shoes.
+- **Reference:** [bubo-turnaround.png](../assets/character-sheets/bubo-turnaround.png)
 
 ## Continuity checklist
 
-Before writing scene prompts, list the character names on screen in each shot. Then confirm:
+Before writing scene prompts:
 
-- The same named character reference sheet is attached to each applicable generation request.
-- Faces, skin/feather colors, eye colors, hair, fixed outfits, and proportions match the sheets.
-- Relative heights stay stable: Milo and Lila are the same child scale; Pip is small enough to perch nearby; Bubo is larger than Pip but remains a compact owl.
-- Temporary props are identified in the episode brief and do not become permanent design changes.
-- Video prompts explicitly state **16:9 landscape**, shot duration, active character names, and the instruction to preserve the reference designs.
-- If a shot has no characters, state `On-screen characters: none` and keep the approved garden design.
+- List the active character names for every shot.
+- Attach the matching files: `milo-turnaround.png`, `lila-turnaround.png`, `pip-turnaround.png`, and/or `bubo-turnaround.png`.
+- Repeat the active character names, shot duration, and 16:9 landscape format in each video prompt.
+- Preserve faces, colors, hair/ears/tail, outfits, proportions, and screen direction.
+- Use `On-screen characters: none` for an environment-only shot.
+- Keep the cast lineup and Peach Stone Garden Lane color mood consistent across the video.
