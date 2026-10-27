@@ -25,7 +25,7 @@ Write original lyrics. Timestamp every verse, chorus, and instrumental break. In
 
 ## Full-video generation prompt
 
-Create one complete nursery-rhyme video lasting **90–120 seconds** in **16:9 landscape**. Follow the original timed lyrics above. Use only the named cast from the character bible: [names]. Attach the matching character-sheet reference to every shot where that character appears. Preserve each character's face, colors, fixed outfit, body proportions, and screen direction across all shots. Keep the Peach Stone Garden Lane recognizable. Describe each shot's time, duration, active character names, action, framing, camera movement, and sound. Do not render captions or other text inside the footage; add captions during editing. End with a calm, complete musical resolution.
+Create one complete nursery-rhyme video lasting **90–120 seconds** in **16:9 landscape**. Follow the original timed lyrics above. Use only the named cast from the character bible: [names]. Attach the matching PNG turnaround to every shot where that character appears: Milo → `milo-turnaround.png`, Lila → `lila-turnaround.png`, Pip → `pip-turnaround.png`, Bubo → `bubo-turnaround.png`. Preserve each character's face, hair/fur, species, colors, fixed outfit, body proportions, and screen direction across all shots. Keep the Peach Stone Garden Lane recognizable. Describe each shot's time, duration, active character names, action, framing, camera movement, and sound. Do not render captions or other text inside the footage; add captions during editing. End with a calm, complete musical resolution.
 
 ## Storyboard and shot prompts
 
