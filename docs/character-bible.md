@@ -1,48 +1,63 @@
 # Character Bible
 
-The names below are the recurring cast. Keep the approved face shapes, outfits, colors, proportions, and voice references in a separate character sheet once they are finalized. Descriptions marked **draft role** are flexible suggestions, not locked design decisions.
+## Working cast
+
+The recurring cast is **Milo, Lila, Pip, and Bubo**. Their current reference sheets are editable draft designs in [docs/character-sheets.md](character-sheets.md) and [assets/character-sheets](../assets/character-sheets/). Keep the same approved sheet files attached to every episode prompt.
 
 ## Shared design rules
 
-- Original, friendly 3D preschool storybook characters.
-- Soft, rounded shapes; readable eyes and gestures; appealing at both full-screen and thumbnail size.
-- Keep the cast visually consistent from shot to shot. Attach approved character reference images to generation requests when supported.
-- The prior character-sheet direction called for light/white skin tones. Keep each character's complexion natural and consistent with its approved reference sheet.
-- Avoid frightening expressions, unsafe imitation, sharp weapons, or unattended dangerous activities.
-- Build an original look. Do not copy the designs or signatures of characters from other children's channels.
+- Render the characters as original, warm, rounded 3D preschool storybook characters.
+- Use the SVG sheets as identity anchors for silhouette, face, colors, outfit, and proportions.
+- Keep faces, eye colors, hair/feathers, accessories, outfits, and body scale unchanged from shot to shot and episode to episode.
+- Preserve the Peach Stone Garden Lane setting, palette, lighting, and screen direction unless the episode brief explicitly calls for another location.
+- Expressions and simple gestures may change; permanent design details may not.
+- Do not add costumes, jewelry, props, hairstyles, or color changes unless an episode establishes a temporary change and repeats it consistently.
+- Make an original look. Do not copy another channel's character designs, logo, signature composition, or artwork.
+- Keep all movement calm, legible, kind, and safe to imitate.
 
 ## Milo
 
-- **Role:** lead child character; invites viewers to join the song.
-- **Draft personality:** curious, warm, and expressive.
-- **Design status:** needs an approved front, side, and back reference sheet.
+- **Name:** Milo
+- **Role:** curious child and welcoming lead.
+- **Appearance:** preschool-age boy with a warm light-peach complexion, round face, dark teal eyes, and short chestnut hair with one curved forelock.
+- **Fixed outfit:** mustard-yellow hoodie with a teal front pocket, deep-indigo shorts, and teal sneakers with cream soles.
+- **Personality cues:** curious, warm, expressive; gestures are clear and small.
+- **Reference:** [assets/character-sheets/milo.svg](../assets/character-sheets/milo.svg)
 
 ## Lila
 
-- **Role:** friend who helps explore or demonstrate an idea.
-- **Draft personality:** thoughtful and playful.
-- **Design status:** needs an approved front, side, and back reference sheet.
+- **Name:** Lila
+- **Role:** thoughtful friend who helps explore, count, or demonstrate.
+- **Appearance:** preschool-age girl with a warm light-peach complexion, hazel-brown eyes, and chestnut hair in two rounded buns with small coral clips.
+- **Fixed outfit:** cream long-sleeve shirt, lavender overall dress, and coral shoes.
+- **Personality cues:** playful, thoughtful, supportive.
+- **Reference:** [assets/character-sheets/lila.svg](../assets/character-sheets/lila.svg)
 
 ## Pip
 
-- **Role:** small animal companion who can add a visual reaction or movement cue.
-- **Draft species/personality:** small bird; lively and curious. Change if the existing character design differs.
-- **Design status:** needs an approved reference sheet.
+- **Name:** Pip
+- **Role:** small bird companion who adds a visual reaction or gentle movement cue.
+- **Appearance:** small rounded turquoise-blue songbird, lemon-cream belly, dark-teal feather tuft, large dark eyes, tangerine beak, and tangerine feet.
+- **Fixed design:** no clothing or extra accessories.
+- **Personality cues:** lively and curious; use small hops and gentle wing flutters.
+- **Reference:** [assets/character-sheets/pip.svg](../assets/character-sheets/pip.svg)
 
 ## Bubo
 
-- **Role:** gentle guide who can introduce a question or help resolve a small problem.
-- **Draft species/personality:** owl; calm and kind. Change if the existing character design differs.
-- **Design status:** needs an approved reference sheet.
+- **Name:** Bubo
+- **Role:** calm, kind owl who can introduce a question or help resolve a small problem.
+- **Appearance:** rounded cocoa-brown owl with cream face discs and belly, amber brow tufts, and large dark-brown eyes.
+- **Fixed accessory:** one teal scarf, tied at the side and visible in every shot.
+- **Personality cues:** patient, reassuring, gentle.
+- **Reference:** [assets/character-sheets/bubo.svg](../assets/character-sheets/bubo.svg)
 
-## Consistency checklist
+## Continuity checklist
 
-Before creating scene prompts, write down for each character:
+Before writing scene prompts, list the character names on screen in each shot. Then confirm:
 
-- Reference image filenames and approved model version.
-- Skin, feather, hair, eye, and outfit colors.
-- Height and proportions relative to the other characters.
-- Voice and mannerisms, if the character speaks.
-- Any props the character carries in this specific episode.
-
-Do not invent a new outfit, hairstyle, accessory, or body proportion between adjacent shots. If a story requires a costume change, establish it clearly and use it consistently for the rest of that sequence.
+- The same named character reference sheet is attached to each applicable generation request.
+- Faces, skin/feather colors, eye colors, hair, fixed outfits, and proportions match the sheets.
+- Relative heights stay stable: Milo and Lila are the same child scale; Pip is small enough to perch nearby; Bubo is larger than Pip but remains a compact owl.
+- Temporary props are identified in the episode brief and do not become permanent design changes.
+- Video prompts explicitly state **16:9 landscape**, shot duration, active character names, and the instruction to preserve the reference designs.
+- If a shot has no characters, state `On-screen characters: none` and keep the approved garden design.
