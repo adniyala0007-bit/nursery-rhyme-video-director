@@ -1,71 +1,81 @@
-# Nursery Rhyme Video Director
+# Nursery Rhymes Video Director
 
-An open, practical production kit for planning original nursery-rhyme videos for YouTube. It adapts the scene-by-scene director workflow of [stickman-video-director](https://github.com/kaomei/stickman-video-director) to a colorful 3D preschool world, using the user's supplied channel screenshots only as broad layout and pacing references.
+A practical kit for creating original nursery-rhyme videos for YouTube with a recurring cast, timed verses, scene prompts, and a consistent storybook world.
 
-**Working channel identity:** Milo & Friends (editable)  
-**Recurring cast:** Milo, Lila, Pip, and Bubo  
-**Default full episode:** 2 minutes, landscape 16:9  
-**Shorts cutdowns:** vertical 9:16, usually 15–30 seconds
+**Channel concept:** Milo & Friends Nursery Rhymes  
+**Recurring characters:** Milo, Lila, Pip, and Bubo  
+**Full-video format:** 16:9 landscape · 1:30–2:00  
+**Shorts:** separate 9:16 portrait cutdowns
 
-This repository is a prompt and production workflow. It does not generate music, images, voices, or finished videos by itself; use the prompts with the creative tools you choose, then assemble and review the results in your editor.
+[**Install / use the Nursery Rhymes Director Skill**](https://github.com/adniyala0007-bit/nursery-rhyme-video-director/tree/main/skills/directing-nursery-rhyme-videos) · [Open the character sheets](docs/character-sheets.md)
 
-## What is inside
+## Install and get started
 
-- **Director workflow:** turn a simple theme into an original song, timed storyboard, shot prompts, and sound notes.
-- **Production-pack workflow:** prepare a complete episode handoff, including thumbnail direction, title, description, tags, and Shorts cutdowns.
-- **Character and world guide:** keep the recurring cast and approved garden setting visually consistent.
-- **Starter episode:** a complete, original two-minute sample, “Good Morning, Garden Friends.”
-- **Episode brief generator:** create a fresh Markdown episode folder with one command; it uses only Python's standard library.
+Use this repository link with an AI assistant that supports installing repository Skills:
 
-## Quick start
+`https://github.com/adniyala0007-bit/nursery-rhyme-video-director`
 
-1. Read [`docs/channel-blueprint.md`](docs/channel-blueprint.md) and replace the working channel name if needed.
-2. Read [`docs/character-bible.md`](docs/character-bible.md). Treat any marked draft details as suggestions until you approve them.
-3. Open [`episodes/ep-001-good-morning-garden-friends/episode.md`](episodes/ep-001-good-morning-garden-friends/episode.md) to see the complete sample format.
-4. Create a new brief:
+Or open the [Skill folder](skills/directing-nursery-rhyme-videos) directly. After installation, ask the assistant to read `SKILL.md`, the character bible, and the character sheets.
 
-   ```bash
-   python3 scripts/new_episode.py --id ep-002 --title "The Little Rain Dance"
-   ```
+Copy this prompt to start a full episode:
 
-5. Ask an AI assistant that can read repository files:
+```text
+Read skills/directing-nursery-rhyme-videos/SKILL.md, docs/character-bible.md,
+docs/character-sheets.md, and prompts/full-episode-video-prompt.md.
 
-   ```text
-   Read skills/directing-nursery-rhyme-videos/SKILL.md and the channel guide.
-   Use Director Mode to develop this episode brief:
-   episodes/ep-002-the-little-rain-dance/episode.md
-   Keep the recurring characters and world consistent. Show me the treatment
-   and original lyrics first; wait for my approval before writing final shot prompts.
-   ```
+Create an original nursery-rhyme song video in 16:9 landscape, 1:30–2:00 total.
+Use Milo, Lila, Pip, and Bubo according to their character sheets. Write original,
+timed verses that name the characters as they appear. Give me the treatment,
+complete lyrics, and a timed storyboard. Every video prompt must state the
+active character names, shot duration, 16:9 landscape, and consistency rules.
+Keep the same faces, colors, outfits, proportions, and garden setting throughout.
+```
 
-## Production modes
+## Production steps
 
-| Mode | Use it for | You receive |
-| --- | --- | --- |
-| A · Director Mode | Hands-on creation, usually 30 seconds–3 minutes | Creative treatment, original lyrics, timed storyboard, shot-by-shot image/video prompts, camera and sound direction |
-| B · Production Pack | A ready-to-produce episode handoff | Mode A outputs plus thumbnail brief, YouTube metadata, playlist suggestion, and Shorts cutdowns |
+1. Choose a simple preschool theme and one learning or feeling goal.
+2. Write an original verse-and-chorus song, timed to a total of 90–120 seconds.
+3. Plan 8–12 gentle shots and match each verse to named characters and actions.
+4. Attach the character-sheet references to every image or video generation request.
+5. Generate a short visual test, then produce and edit the approved scenes.
+6. Review the complete video, captions, sound, safety, and asset rights before publishing.
 
-Both modes use the same character bible, safety checks, and review gates. Generate a short visual test before making every scene; approve the character look, vocal style, and color palette before producing the full episode.
+## Character sheets
+
+These are original **draft design sheets** for this channel's working cast. Review them and adjust any detail before calling a design final.
+
+| Character | Reference sheet |
+| --- | --- |
+| Milo | [View Milo's three-view sheet](assets/character-sheets/milo.svg) |
+| Lila | [View Lila's three-view sheet](assets/character-sheets/lila.svg) |
+| Pip | [View Pip's three-view sheet](assets/character-sheets/pip.svg) |
+| Bubo | [View Bubo's three-view sheet](assets/character-sheets/bubo.svg) |
+
+The [character sheet prompts](docs/character-sheets.md) explain how to generate and reuse these references. Keep the same model version attached across every episode.
 
 ## Repository map
 
 ```text
-docs/                         Channel, character, style, and workflow guides
-episodes/                     Episode briefs and completed production packs
-prompts/                      Reusable image, video, thumbnail, and music prompts
-skills/                       Instructions for an AI assistant acting as video director
+docs/                         Channel, character, and production guides
+assets/character-sheets/      Named three-view character reference sheets (SVG)
+episodes/                     Timed episode briefs and production packs
+prompts/                      Copy-ready image/video/thumbnail prompts
+skills/                       Nursery-rhyme video director Skill
 scripts/                      Small local productivity tools
 templates/                    Blank episode and storyboard templates
 ```
 
+## Important defaults
+
+- Every full nursery-rhyme video is **16:9 landscape** and **90–120 seconds**.
+- Each episode contains named characters and original, timestamped verses.
+- Every video prompt names the characters in that shot, or says `On-screen characters: none`.
+- Use the same attached character references, outfit colors, proportions, and setting in every shot.
+- Do not render lyrics, captions, logos, or other text inside generated footage; add captions in the editor.
+- Full episodes are not Shorts. Make any Shorts cutdown separately in 9:16.
+
 ## Copyright and child-directed content
 
-Write new lyrics and melodies for this channel. Do not reproduce lyrics, melodies, character designs, logos, or thumbnail compositions from existing channels. Use only assets whose licenses allow your intended use, including commercial use if you plan to monetize. Before publishing, review YouTube's current audience-setting, child-safety, and monetization requirements yourself.
+Write new lyrics and melodies for this channel. Do not reproduce protected lyrics, melodies, character designs, logos, or thumbnail compositions from existing channels. Use assets whose licenses permit your intended use, including monetized publishing if applicable. Review YouTube's current audience-setting and child-safety requirements before publishing.
 
-## Reference approach
-
-The supplied screenshots show recognizable channel patterns: colorful preschool imagery, a clear mascot/avatar, neatly grouped playlists, and a mix of full songs and Shorts. This kit uses those broad presentation ideas while defining a separate cast, setting, name, and visual identity. The screenshots and reference channel artwork are not included in this repository.
-
-## License
-
-The original text and scripts in this repository are released under the MIT License. This does not grant rights to any third-party assets you add later.
+The repository text and scripts are released under the MIT License. This does not grant rights to third-party assets added later.
