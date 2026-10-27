@@ -4,11 +4,11 @@
 
 Polished 3D preschool storybook animation, soft forms, sunny natural light, saturated but balanced colors, welcoming expressions, simple staging, and clear actions. Every frame should read quickly on a phone screen.
 
-## Approved recurring world
+## Approved recurring world and environment library
 
-**Peach Stone Garden Lane:** a peach-colored stone path curves through emerald meadow grass. A large rounded oak stands on the left. Pastel flowers, low cream fences, rounded bushes, and a distant cottage with a mint roof frame the path. Warm morning light and fluffy white clouds create a calm, cheerful atmosphere.
+**Peach Stone Garden Lane** is the default home setting and continuity anchor: a peach-colored stone path curves through emerald meadow grass. A large rounded oak stands on the left. Pastel flowers, low cream fences, rounded bushes, and a distant cottage with a mint roof frame the path. Warm morning light and fluffy white clouds create a calm, cheerful atmosphere.
 
-Use this environment as the continuity anchor. Add only the props a scene needs; do not change the cottage, oak, fence, or path layout without a deliberate story reason.
+The [environment prompt library](../prompts/environments.md) also includes a Sunny Farmyard, Cozy Bedtime Bedroom, Rainbow Meadow Playground, and Sparkling Seaside Cove. Choose one primary setting that fits each song. Attach its PNG reference in every shot and preserve the same landmarks, layout, perspective, palette, and lighting across the episode. Add only the props a scene needs; avoid changing the approved set without a deliberate story reason.
 
 ## Composition rules
 
