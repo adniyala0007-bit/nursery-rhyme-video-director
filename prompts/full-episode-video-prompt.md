@@ -16,7 +16,7 @@ CHANNEL AND CAST
 - Named cast: Milo, Lila, Pip, and Bubo. Use only the characters named for this episode.
 - Character designs: attach the matching PNG turnaround from assets/character-sheets/ for every active character; optionally include cast-lineup.png. Keep faces, eye/hair/fur colors, fixed outfits, silhouettes, scale, and proportions unchanged.
 - In every shot prompt, write the exact active character names. If nobody appears, write “On-screen characters: none.”
-- Never substitute an unnamed “child,” “bird,” or “owl” for a named character.
+- Never substitute an unnamed child, bunny, monkey, or animal for a named character.
 
 STORY AND SONG
 - Theme: [one simple preschool-friendly idea]
